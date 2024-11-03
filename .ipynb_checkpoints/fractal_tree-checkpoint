@@ -1,0 +1,259 @@
+digraph {
+	-1 [label="Node -1
+Birth Time: 0"]
+	-1 -> 1.0
+	1.0 [label="Node 1.0
+Birth Time: 0.0"]
+	1.0 -> 4.0
+	4.0 [label="Node 4.0
+Birth Time: 51.0"]
+	4.0 -> 13.0
+	13.0 [label="Node 13.0
+Birth Time: 249.0"]
+	13.0 -> 20.0
+	20.0 [label="Node 20.0
+Birth Time: 165.0"]
+	20.0 -> 43.0
+	43.0 [label="Node 43.0
+Birth Time: 417.0"]
+	13.0 -> 45.0
+	45.0 [label="Node 45.0
+Birth Time: 348.0"]
+	45.0 -> 67.0
+	67.0 [label="Node 67.0
+Birth Time: 369.0"]
+	13.0 -> 73.0
+	73.0 [label="Node 73.0
+Birth Time: 486.0"]
+	4.0 -> 21.0
+	21.0 [label="Node 21.0
+Birth Time: 372.0"]
+	1.0 -> 7.0
+	7.0 [label="Node 7.0
+Birth Time: 153.0"]
+	7.0 -> 32.0
+	32.0 [label="Node 32.0
+Birth Time: 372.0"]
+	32.0 -> 60.0
+	60.0 [label="Node 60.0
+Birth Time: 324.0"]
+	7.0 -> 47.0
+	47.0 [label="Node 47.0
+Birth Time: 462.0"]
+	47.0 -> 75.0
+	75.0 [label="Node 75.0
+Birth Time: 285.0"]
+	7.0 -> 64.0
+	64.0 [label="Node 64.0
+Birth Time: 561.0"]
+	1.0 -> 11.0
+	11.0 [label="Node 11.0
+Birth Time: 267.0"]
+	11.0 -> 30.0
+	30.0 [label="Node 30.0
+Birth Time: 252.0"]
+	30.0 -> 56.0
+	56.0 [label="Node 56.0
+Birth Time: 423.0"]
+	56.0 -> 83.0
+	83.0 [label="Node 83.0
+Birth Time: 351.0"]
+	11.0 -> 55.0
+	55.0 [label="Node 55.0
+Birth Time: 396.0"]
+	1.0 -> 18.0
+	18.0 [label="Node 18.0
+Birth Time: 393.0"]
+	-1 -> 2.0
+	2.0 [label="Node 2.0
+Birth Time: 0.0"]
+	2.0 -> 5.0
+	5.0 [label="Node 5.0
+Birth Time: 96.0"]
+	5.0 -> 8.0
+	8.0 [label="Node 8.0
+Birth Time: 99.0"]
+	8.0 -> 14.0
+	14.0 [label="Node 14.0
+Birth Time: 231.0"]
+	14.0 -> 44.0
+	44.0 [label="Node 44.0
+Birth Time: 354.0"]
+	14.0 -> 81.0
+	81.0 [label="Node 81.0
+Birth Time: 531.0"]
+	8.0 -> 25.0
+	25.0 [label="Node 25.0
+Birth Time: 366.0"]
+	25.0 -> 69.0
+	69.0 [label="Node 69.0
+Birth Time: 360.0"]
+	8.0 -> 36.0
+	36.0 [label="Node 36.0
+Birth Time: 456.0"]
+	36.0 -> 57.0
+	57.0 [label="Node 57.0
+Birth Time: 219.0"]
+	5.0 -> 10.0
+	10.0 [label="Node 10.0
+Birth Time: 162.0"]
+	10.0 -> 24.0
+	24.0 [label="Node 24.0
+Birth Time: 273.0"]
+	24.0 -> 38.0
+	38.0 [label="Node 38.0
+Birth Time: 300.0"]
+	38.0 -> 80.0
+	80.0 [label="Node 80.0
+Birth Time: 462.0"]
+	24.0 -> 72.0
+	72.0 [label="Node 72.0
+Birth Time: 462.0"]
+	5.0 -> 17.0
+	17.0 [label="Node 17.0
+Birth Time: 276.0"]
+	17.0 -> 26.0
+	26.0 [label="Node 26.0
+Birth Time: 192.0"]
+	26.0 -> 49.0
+	49.0 [label="Node 49.0
+Birth Time: 423.0"]
+	49.0 -> 85.0
+	85.0 [label="Node 85.0
+Birth Time: 357.0"]
+	26.0 -> 70.0
+	70.0 [label="Node 70.0
+Birth Time: 534.0"]
+	17.0 -> 29.0
+	29.0 [label="Node 29.0
+Birth Time: 234.0"]
+	29.0 -> 46.0
+	46.0 [label="Node 46.0
+Birth Time: 378.0"]
+	5.0 -> 22.0
+	22.0 [label="Node 22.0
+Birth Time: 327.0"]
+	22.0 -> 34.0
+	34.0 [label="Node 34.0
+Birth Time: 210.0"]
+	34.0 -> 58.0
+	58.0 [label="Node 58.0
+Birth Time: 468.0"]
+	34.0 -> 77.0
+	77.0 [label="Node 77.0
+Birth Time: 540.0"]
+	22.0 -> 53.0
+	53.0 [label="Node 53.0
+Birth Time: 333.0"]
+	22.0 -> 79.0
+	79.0 [label="Node 79.0
+Birth Time: 429.0"]
+	5.0 -> 35.0
+	35.0 [label="Node 35.0
+Birth Time: 456.0"]
+	35.0 -> 62.0
+	62.0 [label="Node 62.0
+Birth Time: 240.0"]
+	5.0 -> 61.0
+	61.0 [label="Node 61.0
+Birth Time: 600.0"]
+	61.0 -> 65.0
+	65.0 [label="Node 65.0
+Birth Time: 114.0"]
+	2.0 -> 12.0
+	12.0 [label="Node 12.0
+Birth Time: 294.0"]
+	12.0 -> 19.0
+	19.0 [label="Node 19.0
+Birth Time: 99.0"]
+	19.0 -> 39.0
+	39.0 [label="Node 39.0
+Birth Time: 477.0"]
+	39.0 -> 84.0
+	84.0 [label="Node 84.0
+Birth Time: 300.0"]
+	19.0 -> 66.0
+	66.0 [label="Node 66.0
+Birth Time: 618.0"]
+	12.0 -> 48.0
+	48.0 [label="Node 48.0
+Birth Time: 321.0"]
+	48.0 -> 54.0
+	54.0 [label="Node 54.0
+Birth Time: 339.0"]
+	12.0 -> 68.0
+	68.0 [label="Node 68.0
+Birth Time: 423.0"]
+	2.0 -> 28.0
+	28.0 [label="Node 28.0
+Birth Time: 492.0"]
+	-1 -> 3.0
+	3.0 [label="Node 3.0
+Birth Time: 0.0"]
+	3.0 -> 6.0
+	6.0 [label="Node 6.0
+Birth Time: 141.0"]
+	6.0 -> 15.0
+	15.0 [label="Node 15.0
+Birth Time: 222.0"]
+	15.0 -> 33.0
+	33.0 [label="Node 33.0
+Birth Time: 309.0"]
+	33.0 -> 74.0
+	74.0 [label="Node 74.0
+Birth Time: 432.0"]
+	15.0 -> 52.0
+	52.0 [label="Node 52.0
+Birth Time: 429.0"]
+	15.0 -> 82.0
+	82.0 [label="Node 82.0
+Birth Time: 546.0"]
+	6.0 -> 27.0
+	27.0 [label="Node 27.0
+Birth Time: 336.0"]
+	27.0 -> 50.0
+	50.0 [label="Node 50.0
+Birth Time: 294.0"]
+	6.0 -> 40.0
+	40.0 [label="Node 40.0
+Birth Time: 435.0"]
+	40.0 -> 71.0
+	71.0 [label="Node 71.0
+Birth Time: 300.0"]
+	6.0 -> 78.0
+	78.0 [label="Node 78.0
+Birth Time: 612.0"]
+	3.0 -> 9.0
+	9.0 [label="Node 9.0
+Birth Time: 255.0"]
+	9.0 -> 23.0
+	23.0 [label="Node 23.0
+Birth Time: 171.0"]
+	23.0 -> 51.0
+	51.0 [label="Node 51.0
+Birth Time: 471.0"]
+	9.0 -> 59.0
+	59.0 [label="Node 59.0
+Birth Time: 435.0"]
+	3.0 -> 16.0
+	16.0 [label="Node 16.0
+Birth Time: 369.0"]
+	16.0 -> 37.0
+	37.0 [label="Node 37.0
+Birth Time: 189.0"]
+	3.0 -> 31.0
+	31.0 [label="Node 31.0
+Birth Time: 522.0"]
+	31.0 -> 42.0
+	42.0 [label="Node 42.0
+Birth Time: 57.0"]
+	3.0 -> 76.0
+	76.0 [label="Node 76.0
+Birth Time: 750.0"]
+	-1 -> 41.0
+	41.0 [label="Node 41.0
+Birth Time: 576.0"]
+	41.0 -> 63.0
+	63.0 [label="Node 63.0
+Birth Time: 135.0"]
+}
